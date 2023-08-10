@@ -174,6 +174,12 @@ h1 {
   margin: 1em;
 }
 
+/* .card__img {
+  width: 100%;
+  height: 150px;
+  background-image: url(https://res.cloudinary.com//image/upload/v1650543491/samples/2-original_agisst.png);
+  background-size: cover;
+} */
 
 .card__title {
   padding: 20px;
